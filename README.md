@@ -1,6 +1,9 @@
 # Optimized Portfolio Allocation - README
 The code in file main.py demonstrates an application for optimizing portfolio allocation using machine learning techniques. The code uses the Dash framework to create a web application with a user-friendly interface. Users can input a list of stock symbols, select various parameters, and obtain an optimized portfolio allocation based on mean-variance optimization.
 
+# You can view the workings of the code on YouTube via the link below.
+ https://www.youtube.com/watch?v=v8YU9fygZac
+
 # Prerequisites
 Before running the code, make sure you have the following libraries installed:
 
